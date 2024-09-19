@@ -1,0 +1,12 @@
+{
+  "Plugin-Class": "org.jefffmod.Jefffmod",
+  "Name": "Jefffs Plugins",
+  "Version": "${plugin_version}",
+  "Description": "Couple plugins I made",
+  "Authors": [
+    "jefff"
+  ],
+  "Minecraft-Versions": [
+    "1.20.4"
+  ]
+}
