@@ -15,8 +15,8 @@ public class Jefffmod extends Plugin {
 		RusherHackAPI.getModuleManager().registerFeature(afkBoostFly);
 		final MapCopy mapCopy = new MapCopy();
 		RusherHackAPI.getModuleManager().registerFeature(mapCopy);
-		final MapSaver mapSaver = new MapSaver();
-		RusherHackAPI.getModuleManager().registerFeature(mapSaver);
+//		final MapSaver mapSaver = new MapSaver();
+//		RusherHackAPI.getModuleManager().registerFeature(mapSaver);
 	}
 
 	@Override
